@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Properties from "./properties";
 
+// this is class component
 class First extends Component {
     render(){
         return (<>
